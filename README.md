@@ -39,8 +39,7 @@ your name when badging in, seeing your photo.
 Kegger aims to take something silly like this and put it in the hands of other
 geeky friend groups out there.
 
-[1] ![There are 14 competing standards. 14?! We need to develop one universal standard for everyone's use cases. There are 15 competing standards.](https://imgs.xkcd.com/comics/standards_2x.png)
-
+[1] <img src="https://imgs.xkcd.com/comics/standards_2x.png" width="500"/>
 [2] ...by getting it running in two offices and stopping there once COVID hit
 
 # Running the software
