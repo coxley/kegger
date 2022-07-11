@@ -26,7 +26,7 @@ var (
 	STATS        *Stats = nil
 	frontend            = flag.String("frontend", "./www/build/", "directory to serve www from")
 	addr                = flag.String("addr", ":80", "socket to listen for www connections on (including websocket)")
-	pulsesPerGal        = flag.Int("ppg", 5000, "how many pulses of your flow meter == 1 gallon?")
+	pulsesPerGal        = flag.Int("ppg", 4994, "how many pulses of your flow meter == 1 gallon?")
 	taps                = map[int]string{}
 )
 
