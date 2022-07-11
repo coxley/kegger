@@ -40,6 +40,7 @@ Kegger aims to take something silly like this and put it in the hands of other
 geeky friend groups out there.
 
 [1] <img src="https://imgs.xkcd.com/comics/standards_2x.png" width="500"/>
+
 [2] ...by getting it running in two offices and stopping there once COVID hit
 
 # Running the software
